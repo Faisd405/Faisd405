@@ -19,11 +19,3 @@ They call me isal :)
 ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Stats?
-
-<div>
-<img src="https://github-profile-trophy.vercel.app/?username=Faisd405&theme=radical&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api?username=Faisd405&show_icons=true&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faisd405&layout=compact&theme=dark" />
-</div
