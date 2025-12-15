@@ -78,7 +78,7 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faisd405&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats-eight-theta-54.vercel.app/api?username=Faisd405&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0d1117)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faisd405&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
 
